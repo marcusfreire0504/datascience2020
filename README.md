@@ -6,3 +6,6 @@
 	- Plenary Talk
 - Lesson #03
 	- Data Science Fundamentals
+	- Data Pipeline
+	- Ethic by design
+	- Platforms and tools
