@@ -12,3 +12,10 @@
 - Lecture #04
 	- Pandas Fundamentals
 	- The swiss army knife for Data Science
+- Lecture #05
+	- Slicing: loc vs iloc
+	- Select from boolean operators
+	- Aggregation 
+	- Loops in Pandas
+
+
