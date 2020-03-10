@@ -17,5 +17,7 @@
 	- Select from boolean operators
 	- Aggregation 
 	- Loops in Pandas
-
+- Lecture #06
+	- Data Cleaning Basic
+	- Encodings, cleaning columns, map, dropna
 
