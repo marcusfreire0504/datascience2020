@@ -20,4 +20,6 @@
 - Lecture #06
 	- Data Cleaning Basic
 	- Encodings, cleaning columns, map, dropna
+- Lecture #07
+	- Practice Assignment
 
