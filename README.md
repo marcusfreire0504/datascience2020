@@ -22,4 +22,7 @@
 	- Encodings, cleaning columns, map, dropna
 - Lecture #07
 	- Practice Assignment
+- Lecture #08
+	- Data Aggregation with Pandas
+	- Groupby vs Pivot Table
 
